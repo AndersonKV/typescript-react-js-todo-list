@@ -5,14 +5,14 @@ projeto feito utilizando typescript no backend e também no frontend com react j
 você pode usar alguns desses usuarios e adicionar o todo, cada um tem seus proprios registros que só são exibidos para ele
 
 
-email: anderson@gmail.com
-password: 789
+email: anderson@gmail.com<br>
+password: 789<br>
 
-email: travolta@gmail.com
-password": 456
+email: travolta@gmail.com<br>
+password": 456<br>
 
-email: jojo@gmail.com
-password": 123
+email: jojo@gmail.com<br>
+password": 123<br>
      
    
 
