@@ -20,6 +20,6 @@ password": 123<br>
 
 
   
-  para iniciar o server: na pasta frontend digite no terminal yarn start e na backend yarn dev
-  para instalar as dependência  você pode usar o yarn add ou npm install
-  yarn build no backend compila o codigo typescript para javascript com sucrase
+  para iniciar o server: na pasta frontend digite no terminal yarn start e na backend yarn dev<br>
+  para instalar as dependência  você pode usar o yarn add ou npm install<br>
+  yarn build no backend compila o codigo typescript para javascript com sucrase<br>
